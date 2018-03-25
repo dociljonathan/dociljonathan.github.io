@@ -498,7 +498,7 @@
           "text6": "<strong>Contacts</strong><br>Email: dociljonathan@gmail.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
           "form": {
             "title": "MESSAGE",
-            "action": "d3vurj@gmail.com",
+            "action": "dociljonathan@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
