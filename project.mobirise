@@ -369,16 +369,19 @@
               }
             },
             {
-              "authorName": "Suffian A.",
-              "authorBio": "User",
+              "authorName": "Rodz Tiunayan",
+              "authorBio": "Gwapo Kunohay",
               "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/uncle-111x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
